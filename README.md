@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey there! I'm Felipe Rosa.
 
-<!--
-**flpfar/flpfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to find creative solutions to different kinds of problems and challenges. 
 
-Here are some ideas to get you started:
+:computer: &nbsp; Working with Ruby on Rails and ReactJS
+<br />:memo: &nbsp; Student at Microverse
+<br />:mortar_board: &nbsp; BSc in Computer Science - Federal University of São Carlos (UFSCar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=flpfar&theme=gotham&show_icons=true)
+
+
+<a href="https://twitter.com/flpfar">
+  <img align="left" alt="Felipe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/felipe-augusto-rosa/">
+  <img align="left" alt="Felipe's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/flpfar">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:flp.far@gmail.com">
+  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
+</a>
