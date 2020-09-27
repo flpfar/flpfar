@@ -1,10 +1,12 @@
 ### Hey there! I'm Felipe Rosa.
 
-I like to find creative solutions to different kinds of problems and challenges. 
+I am a software developer:
 
 :computer: &nbsp; Working with Ruby on Rails and ReactJS
-<br />:memo: &nbsp; Student at Microverse
+<br />:memo: &nbsp; Student at Microverse and Campus Code
 <br />:mortar_board: &nbsp; BSc in Computer Science - Federal University of São Carlos (UFSCar)
+<br />:video_game: &nbsp; Trying to be a soccer player (in Rocket League :grin:)
+<br />:womans_hat: &nbsp; One Piece watcher
 
 
 
