@@ -6,7 +6,8 @@ I am a software developer:
 <br />:memo: &nbsp; Student at Microverse and Campus Code
 <br />:mortar_board: &nbsp; BSc in Computer Science - Federal University of São Carlos (UFSCar)
 <br />:video_game: &nbsp; Trying to be a soccer player (in Rocket League :grin:)
-<br />:womans_hat: &nbsp; One Piece watcher
+<br />:womans_hat: &nbsp; Watching One Piece
+<br />:guitar: &nbsp; Learning to play guitar
 
 
 
