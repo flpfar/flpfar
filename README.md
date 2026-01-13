@@ -1,8 +1,5 @@
 ### Hey there! I'm Felipe Rosa.
 
-![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=flpfar&theme=gotham&show_icons=true)
-
-
 <a href="https://twitter.com/flpfar">
   <img align="left" alt="Felipe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
